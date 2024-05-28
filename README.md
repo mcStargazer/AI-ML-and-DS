@@ -7,7 +7,7 @@
 * [Executive Briefing: Artificial Intelligence (AI)](https://credsverse.com/credentials/3acf295a-10fd-4ef2-8b59-613ff256a214)
 
 ### Recent Practical Projects
-* *[Flood Prediction Competition on Kaggle (May 2024)](https://colab.research.google.com/drive/1DMYd0Bffts5P7kARmYJKKCzqpQaDDYGe?usp=sharing)*
+* [Flood Prediction Competition on Kaggle (May 2024)](https://colab.research.google.com/drive/1DMYd0Bffts5P7kARmYJKKCzqpQaDDYGe?usp=sharing)
 * (TBD) a project to highlight classification methods and results.
 * (TBD) a deep learning project to showcase TensorFlow.
 
