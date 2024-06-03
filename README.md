@@ -1,6 +1,6 @@
 # AI-ML-and-DS Projects
 
-### Recent Course Certifications
+### Recent Courses
 * [Machine Learning A-Z: AI, Python & R...](https://www.udemy.com/course/machinelearning/learn/lecture/35617946?start=1#overview) - On 2024-05-13 [Certified Complete](https://www.udemy.com/certificate/UC-a021173a-48e8-4361-bc88-f45206995b76/)
 * [A Complete Guide on TensorFlow 2.0 using Keras API](https://community.superdatascience.com/c/tensorflow-keras-api/) - On 2024-05-25 [Certified Complete](https://credsverse.com/credentials/14089047-13b7-4346-b274-4f9dd5a30ba1)
 * [Executive Briefing: Machine Learning](https://community.superdatascience.com/c/executive-ml/) - On 2024-05-26 [Certified Complete](https://credsverse.com/credentials/36d89d19-2df1-4c11-ba1f-1a8fc5971cd4)
