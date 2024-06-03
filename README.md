@@ -5,7 +5,7 @@
 * [A Complete Guide on TensorFlow 2.0 using Keras API](https://credsverse.com/credentials/14089047-13b7-4346-b274-4f9dd5a30ba1) - 13hrs of instruction, Completed 2024-05-25
 * [Executive Briefing: Machine Learning](https://credsverse.com/credentials/36d89d19-2df1-4c11-ba1f-1a8fc5971cd4) - 46m of instruction, Completed 2024-05-26
 * [Executive Briefing: Artificial Intelligence (AI)](https://credsverse.com/credentials/3acf295a-10fd-4ef2-8b59-613ff256a214) - 2h15m of instruction, Completed 2024-05-28
-* Large Lanague Models (LLMs), Transformers & GPT A-Z(in progress)
+* Large Language Models (LLMs), Transformers & GPT A-Z(in progress)
 
 ### Recent Practical Projects
 * [Flood Prediction Competition on Kaggle (May 2024)](https://colab.research.google.com/drive/1DMYd0Bffts5P7kARmYJKKCzqpQaDDYGe?usp=sharing)
