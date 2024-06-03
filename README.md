@@ -13,3 +13,6 @@
 * (TBD) an LLM fine tuning demonstration.
 * (TBD) a deep learning project to showcase TensorFlow.
 
+### Note on Deeper Past
+* I appear as primary author once, and as co-author three more times from research I did with Dr A. McGovern between 2008 and 2010. You can find the citations by searching on "Collier" at this [publications webpage](https://mcgovern-fagg.org/amy/publications/).
+* I also produced a poster paper in 2011, and can provide the PDF with you upon request. Citation: Collier, M., McGovern, A., (2011). Spatial Survey of Elementary Data Mining for Drought. Poster presentation at the 1st International Climate Informatics Workshop. NYC, August 26, 2011.
