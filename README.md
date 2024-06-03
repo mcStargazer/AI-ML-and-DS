@@ -14,7 +14,7 @@
 * (TBD) a deep learning project to showcase TensorFlow.
 
 ### Notes on Deeper Past
-* I appear as primary author once, and as co-author three more times from research I did with Dr A. McGovern between 2008 and 2010. You can find the citations by searching on "Collier" at this [publications webpage](https://mcgovern-fagg.org/amy/publications/). Citations appear below for convenience:
+* I appear as primary author once, and as co-author three more times from research I did with Dr A. McGovern between 2008 and 2010. This work highlights using Support Vector Machines, and helping develop Spatiotemporal Relational Probability Trees. You can find the citations by searching on "Collier" at this [publications webpage](https://mcgovern-fagg.org/amy/publications/). Citations appear below for convenience:
   * Collier, Matthew and McGovern, Amy. (2008). Kernels for the Investigation of Localized Spatiotemporal Transitions of Drought with Support Vector Machines. Proceedings of ICDM 2008, the 8th IEEE International Conference on Data Mining Workshops. Pisa, Italy. 15-19 December 2008, pages 359-368
   * McGovern, Amy; Hiers, Nathan; Collier, Matthew; Gagne II, David J. and Brown, Rodger A. (2008). Spatiotemporal Relational Probability Trees. Proceedings of the 2008 IEEE International Conference on Data Mining, Pages 935-940. Pisa, Italy. 15-19 December 2008.
   * Gagne II, David John; McGovern, Amy; Hiers, Nathan C.; Collier, Matthew; Brown and Rodger A. (2009). Expanding the Spatial Awareness of Spatiotemporal Relational Probability Trees to Improve the Analysis of Severe Thunderstorm Models. Preprints of the Seventh Conference on Artificial Intelligence and its Applications to the Environmental Sciences.
