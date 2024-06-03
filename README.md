@@ -10,5 +10,6 @@
 ### Recent Practical Projects
 * [Flood Prediction Competition on Kaggle (May 2024)](https://colab.research.google.com/drive/1DMYd0Bffts5P7kARmYJKKCzqpQaDDYGe?usp=sharing) - A project highlighting regression.
 * (in progress...) [Feature Selection & Anomaly Detection](https://colab.research.google.com/drive/16pCUBH4hmv98x3j9xxV1_Hvp3YqJX3aU?usp=sharing) - A project highlighting ways to reduce dimensionality and perform classification to detect manufacturing anomalies in the well-known [semiconductor dataset](https://www.kaggle.com/datasets/paresh2047/uci-semcom).
-* (TBD) a deep learning project to showcase TensorFlow.
 * (TBD) an LLM fine tuning demonstration.
+* (TBD) a deep learning project to showcase TensorFlow.
+
