@@ -1,6 +1,7 @@
 # Matt Collier's AI-ML-and-DS Projects
 
 ### Recent Courses
+
 | Course Title (click to see syllabus) | Completion Date (click to see certificate) |
 |------------------------------------------------------------------------------------------------------|
 | [Machine Learning A-Z: AI, Python & R...](https://www.udemy.com/course/machinelearning/learn/lecture/35617946?start=1#overview) | Received [certificate of completion](https://www.udemy.com/certificate/UC-a021173a-48e8-4361-bc88-f45206995b76/) on 2024-05-13.|
