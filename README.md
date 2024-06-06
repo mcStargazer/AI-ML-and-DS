@@ -2,7 +2,7 @@
 
 ### Recent Courses
 
-| Course Title (click for syllabus) | Completion Date (click for certificate) |
+| Course Title (click for syllabus) | Completed On (click for certificate) |
 |-------------| :---: |
 | [Machine Learning A-Z: AI, Python & R...](https://www.udemy.com/course/machinelearning/learn/lecture/35617946?start=1#overview) | [2024-05-13](https://www.udemy.com/certificate/UC-a021173a-48e8-4361-bc88-f45206995b76/)|
 | [A Complete Guide on TensorFlow 2.0 using Keras API](https://community.superdatascience.com/c/tensorflow-keras-api/) | [2024-05-25](https://credsverse.com/credentials/14089047-13b7-4346-b274-4f9dd5a30ba1)|
