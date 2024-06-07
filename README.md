@@ -1,6 +1,6 @@
 # Matt Collier's AI-ML-and-DS Projects
 
-### For More Background on the Below
+### For More Background on My Work
 
 See my [LinkedIn Page](https://www.linkedin.com/in/matthew-collier-aa70167/). (If you just came [here](https://github.com/mcStargazer/AI-ML-and-DS/blob/main/README.md) from [there](https://www.linkedin.com/in/matthew-collier-aa70167/), be wary of a potential infinite loop. Don't get caught!)
 
