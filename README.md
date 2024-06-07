@@ -1,6 +1,6 @@
 # Matt Collier's AI-ML-and-DS Projects
 
-### For More Background on the Below
+### For More Background on the Below (If you just came from there, be wary of a potential infinite loop!)
 
 See my [LinkedIn Page](https://www.linkedin.com/in/matthew-collier-aa70167/)
 
