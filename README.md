@@ -1,5 +1,9 @@
 # Matt Collier's AI-ML-and-DS Projects
 
+### For More Background on the Below
+
+See my [LinkedIn Page](https://www.linkedin.com/in/matthew-collier-aa70167/)
+
 ### Recent Courses
 
 | Course Title (click for syllabus) | Completed On (click for certificate) |
