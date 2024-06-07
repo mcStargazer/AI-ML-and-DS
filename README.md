@@ -4,11 +4,12 @@
 
 | Course Title (click for syllabus) | Completed On (click for certificate) |
 |-------------| :---: |
-| [Machine Learning A-Z: AI, Python & R...](https://www.udemy.com/course/machinelearning/learn/lecture/35617946?start=1#overview) | [2024-05-13](https://www.udemy.com/certificate/UC-a021173a-48e8-4361-bc88-f45206995b76/)|
-| [A Complete Guide on TensorFlow 2.0 using Keras API](https://community.superdatascience.com/c/tensorflow-keras-api/) | [2024-05-25](https://credsverse.com/credentials/14089047-13b7-4346-b274-4f9dd5a30ba1)|
-| [Executive Briefing: Machine Learning](https://community.superdatascience.com/c/executive-ml/) | [2024-05-26](https://credsverse.com/credentials/36d89d19-2df1-4c11-ba1f-1a8fc5971cd4)|
-| [Executive Briefing: Artificial Intelligence (AI)](https://community.superdatascience.com/c/executive-ai/) |  [2024-05-28](https://credsverse.com/credentials/3acf295a-10fd-4ef2-8b59-613ff256a214)|
-| [Large Language Models (LLMs), Transformers & GPT A-Z](https://community.superdatascience.com/c/llm-gpt/) | [2024-06-06](https://credsverse.com/credentials/8de678ae-f5cf-4f8c-b183-8e8f06662042)|
+| [Machine Learning A-Z: AI, Python & R...](https://www.udemy.com/course/machinelearning/learn/lecture/35617946?start=1#overview) | [2024-05-13](https://www.udemy.com/certificate/UC-a021173a-48e8-4361-bc88-f45206995b76/) |
+| [A Complete Guide on TensorFlow 2.0 using Keras API](https://community.superdatascience.com/c/tensorflow-keras-api/) | [2024-05-25](https://credsverse.com/credentials/14089047-13b7-4346-b274-4f9dd5a30ba1) |
+| [Executive Briefing: Machine Learning](https://community.superdatascience.com/c/executive-ml/) | [2024-05-26](https://credsverse.com/credentials/36d89d19-2df1-4c11-ba1f-1a8fc5971cd4) |
+| [Executive Briefing: Artificial Intelligence (AI)](https://community.superdatascience.com/c/executive-ai/) |  [2024-05-28](https://credsverse.com/credentials/3acf295a-10fd-4ef2-8b59-613ff256a214) |
+| [Large Language Models (LLMs), Transformers & GPT A-Z](https://community.superdatascience.com/c/llm-gpt/) | [2024-06-06](https://credsverse.com/credentials/8de678ae-f5cf-4f8c-b183-8e8f06662042) |
+| [Security Risks in AI and Machine Learning: Categorizing Attacks and Failure Modes ](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes/) | (in progress...) |
 
 ### Recent Practical Projects
 * [Flood Prediction Competition on Kaggle (May 2024)](https://colab.research.google.com/drive/1DMYd0Bffts5P7kARmYJKKCzqpQaDDYGe?usp=sharing) - A project highlighting regression.
