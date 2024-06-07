@@ -12,9 +12,9 @@
 | [Security Risks in AI and Machine Learning: Categorizing Attacks and Failure Modes ](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes/) | (in progress...) |
 
 ### Recent Practical Projects
-* [Flood Prediction Competition on Kaggle (May 2024)](https://colab.research.google.com/drive/1DMYd0Bffts5P7kARmYJKKCzqpQaDDYGe?usp=sharing) - A project highlighting regression.
-* (in progress...) [Feature Selection](https://colab.research.google.com/drive/16pCUBH4hmv98x3j9xxV1_Hvp3YqJX3aU?usp=sharing) - A project highlighting ways to reduce dimensionality in a feature dataset. Eventually, will perform classification to detect manufacturing anomalies in the well-known [semiconductor dataset](https://www.kaggle.com/datasets/paresh2047/uci-semcom).
-* (TBD) an LLM fine tuning demonstration.
+* [Flood Prediction Competition on Kaggle (May 2024)](https://colab.research.google.com/drive/1DMYd0Bffts5P7kARmYJKKCzqpQaDDYGe?usp=sharing) - A machine learning project highlighting regression.
+* (in preparation) An LLM Fine Tuning demonstration with a cybersecurity dataset derived from NIST's [National Vulnerability Database](https://nvd.nist.gov/).
+* (in preparation) A Feature Selection - A project highlighting ways to reduce dimensionality in a feature dataset. Eventually, will perform classification to detect manufacturing anomalies in the well-known [semiconductor dataset](https://www.kaggle.com/datasets/paresh2047/uci-semcom).
 * (TBD) a deep learning project to showcase TensorFlow.
 
 ### Notes on the Deeper Past
