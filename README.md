@@ -17,8 +17,8 @@ See my [LinkedIn Page](https://www.linkedin.com/in/matthew-collier-aa70167/). (I
 
 ### Recent Practical Projects
 * [_**Flood Prediction**_](https://colab.research.google.com/drive/1DMYd0Bffts5P7kARmYJKKCzqpQaDDYGe?usp=sharing) - A machine learning project highlighting regression. Inspired by one of Kaggle's monthly competitions.
-* (in preparation) _**LLM Fine Tuning for Cybersecurity**_ - A demonstration with a cybersecurity dataset derived from NIST's [National Vulnerability Database](https://nvd.nist.gov/).
-* (in preparation) _**Feature Selection**_ - A project highlighting ways to reduce dimensionality in a feature dataset. Eventually, will perform classification to detect manufacturing anomalies in the well-known [semiconductor dataset](https://www.kaggle.com/datasets/paresh2047/uci-semcom).
+* (in progress) _**LLM Fine Tuning for Cybersecurity**_ - A demonstration with a cybersecurity dataset derived from NIST's [National Vulnerability Database](https://nvd.nist.gov/).
+* (in progress) _**Feature Selection**_ - A project highlighting ways to reduce dimensionality in a feature dataset. Eventually, will perform classification to detect manufacturing anomalies in the well-known [semiconductor dataset](https://www.kaggle.com/datasets/paresh2047/uci-semcom).
 * (TBD) a deep learning project to showcase TensorFlow.
 
 ### Notes on the Deeper Past
