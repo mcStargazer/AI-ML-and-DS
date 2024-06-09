@@ -13,11 +13,11 @@ See my [LinkedIn Page](https://www.linkedin.com/in/matthew-collier-aa70167/). (I
 | [Executive Briefing: Machine Learning](https://community.superdatascience.com/c/executive-ml/) | [2024-05-26](https://credsverse.com/credentials/36d89d19-2df1-4c11-ba1f-1a8fc5971cd4) |
 | [Executive Briefing: Artificial Intelligence (AI)](https://community.superdatascience.com/c/executive-ai/) |  [2024-05-28](https://credsverse.com/credentials/3acf295a-10fd-4ef2-8b59-613ff256a214) |
 | [Large Language Models (LLMs), Transformers & GPT A-Z](https://community.superdatascience.com/c/llm-gpt/) | [2024-06-06](https://credsverse.com/credentials/8de678ae-f5cf-4f8c-b183-8e8f06662042) |
-| [Security Risks in AI and Machine Learning: Categorizing Attacks and Failure Modes ](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes/) | (in progress...) |
+| [Security Risks in AI and Machine Learning: Categorizing Attacks and Failure Modes ](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes/) | ([2024-06-09](https://www.linkedin.com/learning/certificates/188f0196790fac74aa8fe0bb68991319e26ba0175099e22d80f2a0de356de335)) |
 
 ### Recent Practical Projects
-* [_**Flood Prediction**_](https://colab.research.google.com/drive/1DMYd0Bffts5P7kARmYJKKCzqpQaDDYGe?usp=sharing) - A machine learning project highlighting regression. Inspired by one of Kaggle's monthly competitions.
 * (in progress) _**LLM Fine Tuning for Cybersecurity**_ - A demonstration with a cybersecurity dataset derived from NIST's [National Vulnerability Database](https://nvd.nist.gov/).
+* [_**Flood Prediction**_](https://colab.research.google.com/drive/1DMYd0Bffts5P7kARmYJKKCzqpQaDDYGe?usp=sharing) - A machine learning project highlighting regression. Inspired by one of Kaggle's monthly competitions.
 * (in progress) _**Feature Selection**_ - A project highlighting ways to reduce dimensionality in a feature dataset. Eventually, will perform classification to detect manufacturing anomalies in the well-known [semiconductor dataset](https://www.kaggle.com/datasets/paresh2047/uci-semcom).
 * (TBD) a deep learning project to showcase TensorFlow.
 
