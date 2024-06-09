@@ -16,7 +16,7 @@ See my [LinkedIn Page](https://www.linkedin.com/in/matthew-collier-aa70167/). (I
 | [Security Risks in AI and Machine Learning: Categorizing Attacks and Failure Modes ](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes/) | [2024-06-09](https://www.linkedin.com/learning/certificates/188f0196790fac74aa8fe0bb68991319e26ba0175099e22d80f2a0de356de335) |
 
 ### Recent Practical Projects
-* (in progress) _**LLM Fine Tuning for Cybersecurity**_ - A demonstration with a cybersecurity dataset derived from NIST's [National Vulnerability Database](https://nvd.nist.gov/).
+* [_**LLM Fine Tuning for Cybersecurity**_](https://colab.research.google.com/drive/1OFP94l0Btxma-NqYthc5_Jv1f5UQx1s3?usp=sharing) - A demonstration with a cybersecurity dataset derived from NIST's National Vulnerability Database.
 * [_**Flood Prediction**_](https://colab.research.google.com/drive/1DMYd0Bffts5P7kARmYJKKCzqpQaDDYGe?usp=sharing) - A machine learning project highlighting regression. Inspired by one of Kaggle's monthly competitions.
 * (in progress) _**Feature Selection**_ - A project highlighting ways to reduce dimensionality in a feature dataset. Eventually, will perform classification to detect manufacturing anomalies in the well-known [semiconductor dataset](https://www.kaggle.com/datasets/paresh2047/uci-semcom).
 * (TBD) a deep learning project to showcase TensorFlow.
