@@ -15,7 +15,7 @@ See my [LinkedIn Page](https://www.linkedin.com/in/matthew-collier-aa70167/). (I
 | [Large Language Models (LLMs), Transformers & GPT A-Z](https://community.superdatascience.com/c/llm-gpt/) | [2024-06-06](https://credsverse.com/credentials/8de678ae-f5cf-4f8c-b183-8e8f06662042) |
 | [Security Risks in AI and Machine Learning: Categorizing Attacks and Failure Modes](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes/) | [2024-06-09](https://www.linkedin.com/learning/certificates/188f0196790fac74aa8fe0bb68991319e26ba0175099e22d80f2a0de356de335) |
 | [Learning Threat Modeling for Security Professionals](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals) | [2024-06-23](https://www.linkedin.com/learning/certificates/13603df3c4ddaa25eaeedbb7e41e939ef35046f5f536bfaeb26e78c27a97621a) |
-| [Threat Modeling for AI/ML Systems](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/) | [2024-06-24]([https://www.linkedin.com/learning/certificates/188f0196790fac74aa8fe0bb68991319e26ba0175099e22d80f2a0de356de335](https://www.linkedin.com/learning/certificates/c4069c3ae8a0b76caf8609d73f533623d583abe318147d0c7c07b3d43db68d26) |
+| [Threat Modeling for AI/ML Systems](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/) | [2024-06-24](https://www.linkedin.com/learning/certificates/c4069c3ae8a0b76caf8609d73f533623d583abe318147d0c7c07b3d43db68d26) |
 | [Artificial Intelligence & ChatGPT for Cyber Security 2024](https://www.udemy.com/course/artificial-intelligence-chatgpt-for-cyber-security-2024/) | (in progress...) |
 | [Become a Linear Algebra Master](https://www.udemy.com/course/linear-algebra-course/) | (in progress...) |
 
