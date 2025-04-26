@@ -2,7 +2,7 @@
 
 ### For More Background on My Work
 
-See my [LinkedIn Page](https://www.linkedin.com/in/matthew-collier-aa70167/). (If you just came [here](https://github.com/mcStargazer/AI-ML-and-DS/blob/main/README.md) from [there](https://www.linkedin.com/in/matthew-collier-aa70167/), be wary of a potential infinite loop. Don't get caught!)
+See my [LinkedIn Page](https://www.linkedin.com/in/matt-collier-ms-acc/). (If you just came [here](https://github.com/mcStargazer/AI-ML-and-DS/blob/main/README.md) from [there](https://www.linkedin.com/in/matt-collier-ms-acc/), be wary of a potential infinite loop. Don't get caught!)
 
 ### Recent Courses
 
@@ -15,8 +15,6 @@ See my [LinkedIn Page](https://www.linkedin.com/in/matthew-collier-aa70167/). (I
 | [Large Language Models (LLMs), Transformers & GPT A-Z](https://community.superdatascience.com/c/llm-gpt/) | [2024-06-06](https://credsverse.com/credentials/8de678ae-f5cf-4f8c-b183-8e8f06662042) |
 | [Security Risks in AI and Machine Learning: Categorizing Attacks and Failure Modes](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes/) | [2024-06-09](https://www.linkedin.com/learning/certificates/188f0196790fac74aa8fe0bb68991319e26ba0175099e22d80f2a0de356de335) |
 | [Threat Modeling for AI/ML Systems](https://www.linkedin.com/learning/threat-modeling-for-ai-ml-systems/) | [2024-06-24](https://www.linkedin.com/learning/certificates/c4069c3ae8a0b76caf8609d73f533623d583abe318147d0c7c07b3d43db68d26) |
-| [Artificial Intelligence & ChatGPT for Cyber Security 2024](https://www.udemy.com/course/artificial-intelligence-chatgpt-for-cyber-security-2024/) | (in progress...) |
-| [Become a Linear Algebra Master](https://www.udemy.com/course/linear-algebra-course/) | (in progress...) |
 
 ### Recent Practical Projects
 * [_**LLM Fine Tuning for Cybersecurity**_](https://colab.research.google.com/drive/1OFP94l0Btxma-NqYthc5_Jv1f5UQx1s3?usp=sharing) - A demonstration with a cybersecurity dataset derived from NIST's National Vulnerability Database.
